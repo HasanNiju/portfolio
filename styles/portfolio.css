@@ -253,70 +253,74 @@
   margin-top: 150px;
 }
 
-.button{
-    width: 200px;
-    height: 64px;
-    margin: auto;
+.button {
+  width: 215px;
+  height: 64px;
+  margin: auto;
 }
 
 /* Footer section */
 
-.contact-title{
-    font-size: 35px;
-    font-weight: 700;
-    color: #181818;
-    margin-bottom: 20px;
+.contact-title {
+  font-size: 35px;
+  font-weight: 700;
+  color: #181818;
+  margin-bottom: 20px;
 }
 
-.contact-text{
-    font-size: 16px;
-    line-height: 28px;
-    color: #474747;
-    width: 562px;
-    height: 56px;
-    margin-bottom: 30px;
+.contact-text {
+  font-size: 16px;
+  line-height: 28px;
+  color: #474747;
+  width: 562px;
+  height: 56px;
+  margin-bottom: 30px;
 }
 
-.social-icon{
-    width: 24px;
-    height: 24px;
-    margin-right: 24px;
+.social-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 24px;
 }
 
-.form-field{
-    width: 461px;
-    height: 64px;
-    color: white;
-    border-radius: 5px;
-    margin-bottom: 24px;
-   padding-top: 18px;
-   padding-bottom: 18px;
-   padding-left: 30px;
-   border: none;
-   color: #474747;
+.form-field {
+  width: 461px;
+  height: 64px;
+  color: white;
+  border-radius: 5px;
+  margin-bottom: 24px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 30px;
+  border: none;
+  color: #474747;
 }
 
-.form-textarea{
-    width: 461px;
-    height: 180px;
-    color: white;
-    border-radius: 5px;
-    margin-bottom: 24px;
-    padding-top: 18px;
-    padding-bottom: 18px;
-    padding-left: 30px;
-    border: none;
-    color: #474747;
+.form-textarea {
+  width: 461px;
+  height: 180px;
+  color: white;
+  border-radius: 5px;
+  margin-bottom: 24px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 30px;
+  border: none;
+  color: #474747;
 }
 
-.footer{
-    display: flex;
-    height: 780px;
-    width: 100%;
-    background-color: #f8e5e5 ;
-    margin-top: 113px;
-    padding-top: 130px;
-    justify-content: space-around;
+.footer {
+  display: flex;
+  height: 780px;
+  width: 100%;
+  background-color: #f8e5e5;
+  margin-top: 113px;
+  padding-top: 130px;
+  justify-content: space-around;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 600, "GRAD" 0, "opsz" 48;
 }
 
 /* End */
