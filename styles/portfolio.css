@@ -205,10 +205,56 @@
 }
 
 .skill {
-  margin-top: 50px;
   height: 377px;
   width: 1140px;
   gap: 24px;
   display: flex;
-  margin: 0 auto;
+  margin: auto;
+}
+
+/* Summy of my resume section */
+
+.section-title {
+  font-size: 30px;
+  font-weight: 700;
+  color: #474747;
+}
+
+.degree {
+  font-size: 25px;
+  font-weight: 700;
+  color: #474747;
+  margin-bottom: 10px;
+  margin-top: 30px;
+}
+
+.university {
+  font-size: 20px;
+  font-weight: 600;
+  color: #757575;
+  margin-bottom: 20px;
+}
+
+.degree-description {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #757575;
+  margin-bottom: 30px;
+}
+
+.resume {
+  margin: 113px 380px 50px;
+  gap: 50px;
+  display: flex;
+}
+
+.resume-container {
+  margin-top: 150px;
+}
+
+.button{
+    width: 200px;
+    height: 64px;
+    margin: auto;
 }
